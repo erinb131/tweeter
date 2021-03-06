@@ -25,5 +25,3 @@ Here's a walkthrough of implemented user stories:
 
 https://imgur.com/gallery/n84VbgD
 <img src='https://imgur.com/gallery/n84VbgD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/n84VbgD"  ><a href="//imgur.com/a/n84VbgD">unit 3 part 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
